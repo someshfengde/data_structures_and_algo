@@ -31,4 +31,7 @@ def andrei( arr, target):
 
 andrei(arr = [1,4,5,6,7],target = 800)
 
+
+# %%
+
 # %%
